@@ -1,2 +1,2 @@
 # microservices
-Microserives API  (Express - Nest.js - GraphQL - RabbitMQ)
+Microserives API - Express + Nest.js + GraphQL + RabbitMQ
